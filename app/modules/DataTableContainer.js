@@ -1,6 +1,5 @@
 import React from 'react'
 import DataTable from 'es6!app/modules/DataTable'
-console.log('SHIT');
 
 class DataTableContainer extends React.Component {
     render() {
